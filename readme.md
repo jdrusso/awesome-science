@@ -65,8 +65,20 @@ A list of various awesome tools for doing science!
 
 ### Terminal emulators
 
-- [Alacritty]
-- [Kitty]
+- [Alacritty](https://github.com/alacritty/alacritty) - Fast, GPU-accelerated terminal emulator
+- [Kitty](https://sw.kovidgoyal.net/kitty/) - Blazing fast, GPU-accelerated terminal emulator.... But a little more fragile than Alacritty
+
+### Multiplexers
+
+- [Byobu](https://www.byobu.org/) - Clean wrapper around tmux that provides nicely formatted multiplexing
+
+### Window managers
+
+- [i3](https://i3wm.org/) - Tiling window manager
+
+### IDEs
+
+- [PyCharm](https://www.jetbrains.com/pycharm/) - Needs no introduction.
 
 ## Follow
 
