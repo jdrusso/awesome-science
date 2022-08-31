@@ -49,6 +49,8 @@ A list of various awesome tools for doing science!
 
 ## Analysis
 
+- [MSM-WE](https://github.com/jdrusso/msm_we) - Tools for building history-augmented Markov state models from WESTPA weighted ensemble data.
+
 - [Deeptime](https://deeptime-ml.github.io/latest/index.html) - Python library for analyzing time series data, and the successor to PyEmma. Includes a hefty Markov analysis library.
 
 ## Simulation
