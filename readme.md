@@ -28,7 +28,11 @@ A list of various awesome tools for doing science!
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Plotting](#plotting)
+- [Utilities](#utilities)
+- [Simulation](#simulation)
+- [Data Management](#data-management)
+- [Development](#development)
 - [Follow](#follow)
 
 <!-- CONTENT -->
