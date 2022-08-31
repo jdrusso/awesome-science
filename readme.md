@@ -25,7 +25,23 @@ A list of various awesome tools for doing science!
 
 ## TOC
 <!--ts-->
-
+* [Awesome Science <a href="https://awesome.re" rel="nofollow"><img src="https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667" alt="Awesome" data-canonical-src="https://awesome.re/badge.svg" style="max-width: 100%;"></a> <a href="https://github.com/jdrusso/awesome-science/actions/workflows/lint.yaml"><img src="https://github.com/jdrusso/awesome-science/actions/workflows/lint.yaml/badge.svg" alt="lint" style="max-width: 100%;"></a>](#awesome-science--)
+   * [TOC](#toc)
+   * [Contents](#contents)
+   * [Featured (new releases)](#featured-new-releases)
+   * [Plotting](#plotting)
+   * [Utilities](#utilities)
+      * [Pretty-Printing](#pretty-printing)
+   * [Simulation](#simulation)
+   * [Data Management](#data-management)
+   * [Development](#development)
+      * [Terminal emulators](#terminal-emulators)
+      * [Multiplexers](#multiplexers)
+      * [Window managers](#window-managers)
+      * [IDEs](#ides)
+   * [Follow](#follow)
+   * [Contributing](#contributing)
+      * [Contributors](#contributors)
 <!--te-->
 
 <!-- TOC -->
