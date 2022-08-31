@@ -6,6 +6,7 @@ on:
   push:
     branches: [main]
     paths: ['readme.md']
+  workflow_dispatch:
 
 jobs:
   build:
