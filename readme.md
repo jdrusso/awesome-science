@@ -23,6 +23,11 @@ A list of various awesome tools for doing science!
 
 </div>
 
+## TOC
+<!--ts-->
+
+<!--te-->
+
 <!-- TOC -->
 
 ## Contents
