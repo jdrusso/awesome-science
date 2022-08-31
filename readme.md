@@ -35,13 +35,38 @@ A list of various awesome tools for doing science!
 
 ## Featured (new releases)
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [Aquarel](https://github.com/lgienapp/aquarel) - Library for templating and styling Matplotlib
 
-## Section 1
+## Plotting
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [Aquarel](https://github.com/lgienapp/aquarel) - Library for templating and styling Matplotlib
+
+- [brokenaxes](https://github.com/bendichter/brokenaxes) - Nifty package for making plots w/ broken axes, which is a major PITA otherwise in mpl
 
 <!-- END CONTENT -->
+
+## Utilities
+
+### Pretty-Printing
+
+- [Gum](https://github.com/charmbracelet/gum) - Library for pretty-fying shell scripts
+
+- [Rich](https://github.com/Textualize/rich) - Incredible library for gorgeous output in Python scripts. Useful for logging, progress bars, formatted output, live-updating tables
+
+## Simulation
+
+## Data Management
+
+- [SigOpt](https://sigopt.com/) - Outstanding tool for hyperparameter optimization + managing data and parameters for many analysis runs
+
+## Development
+
+- [GitBook](https://www.gitbook.com/) - Nice alternative to readthedocs for making pretty docs pages
+
+### Terminal emulators
+
+- [Alacritty]
+- [Kitty]
 
 ## Follow
 
