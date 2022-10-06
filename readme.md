@@ -37,13 +37,11 @@ A list of various awesome tools for doing science!
 
 <!-- CONTENT -->
 
-## Featured (new releases)
-
-- [Aquarel](https://github.com/lgienapp/aquarel) - Library for templating and styling Matplotlib.
+<!-- ## Featured (new releases) -->
 
 ## Plotting
 
-- [Aquarel](https://github.com/lgienapp/aquarel) - Library for templating and styling Matplotlib
+- [Aquarel](https://github.com/lgienapp/aquarel) - Library for templating and styling Matplotlib.
 
 - [brokenaxes](https://github.com/bendichter/brokenaxes) - Nifty package for making plots w/ broken axes, which is a major PITA otherwise in mpl.
 
@@ -77,7 +75,7 @@ A list of various awesome tools for doing science!
 ### Terminal emulators
 
 - [Alacritty](https://github.com/alacritty/alacritty) - Fast, GPU-accelerated terminal emulator.
-- [Kitty](https://sw.kovidgoyal.net/kitty/) - Blazing fast, GPU-accelerated terminal emulator.... But a little more fragile than Alacritty.
+- [Kitty](https://sw.kovidgoyal.net/kitty/) - Blazing fast, GPU-accelerated terminal emulator - but a little more fragile than Alacritty.
 
 ### Multiplexers
 
