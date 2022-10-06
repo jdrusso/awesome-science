@@ -62,6 +62,11 @@ A list of various awesome tools for doing science!
 - [SigOpt](https://sigopt.com/) - Outstanding tool for hyperparameter optimization + managing data and parameters for many analysis runs.
 
 
+## Utilities
+
+- [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - Simple Python tool for easily sending documents between computers.
+
+
 ## Development
 
 ### Pretty-Printing
