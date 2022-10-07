@@ -31,6 +31,7 @@ A list of various awesome tools for doing science!
 - [Analysis](#analysis)
 - [Simulation](#simulation)
 - [Data Management](#data-management)
+- [Utilities](#utilities)
 - [Development](#development)
 - [Follow](#follow)
 
