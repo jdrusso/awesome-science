@@ -27,7 +27,6 @@ A list of various awesome tools for doing science!
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
 - [Plotting](#plotting)
 - [Analysis](#analysis)
 - [Simulation](#simulation)
