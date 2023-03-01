@@ -69,6 +69,10 @@ A list of various awesome tools for doing science!
 
 ## Development
 
+### Version control
+
+- [git-rr](https://gist.github.com/mfontani/1051568) - Script for showing filenames in interactive rebases
+
 ### Pretty-Printing
 
 - [Gum](https://github.com/charmbracelet/gum) - Library for pretty-fying shell scripts.
